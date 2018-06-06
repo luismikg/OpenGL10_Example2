@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2511441221935"
+    token="-6039727240143395600"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="104" />
+    <task
+        name="instant-run-dex"
+        duration="895" />
+    <task
+        name="instant-run-transform"
+        duration="22" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example2/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="2276248772550"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="2483817263896"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example2/app/build/intermediates/builds/debug/2483817263896/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="2497435199168"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example2/app/build/intermediates/builds/debug/2497435199168/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="2511441221935"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example2/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
